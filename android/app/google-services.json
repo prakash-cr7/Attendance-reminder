@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924170127445",
+    "firebase_url": "https://attendence-reminder.firebaseio.com",
+    "project_id": "attendence-reminder",
+    "storage_bucket": "attendence-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924170127445:android:a926418f8ca3e43596acdc",
+        "android_client_info": {
+          "package_name": "com.prakash.attendence_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924170127445-ol0q00kokdcplof7hk956p1b4ha0q6h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prakash.attendence_reminder",
+            "certificate_hash": "89c4113ddaee0d9489dfcc172273ca216fe77894"
+          }
+        },
+        {
+          "client_id": "924170127445-os7v4o86avnnc9fh6tn1f8hesu1ka9p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6rSfnaM-us4RGbI_Rzr1GbiJwsZkxVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924170127445-os7v4o86avnnc9fh6tn1f8hesu1ka9p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
