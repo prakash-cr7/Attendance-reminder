@@ -4,7 +4,7 @@ const admin = require('firebase-admin');
 admin.initializeApp(functions.config().firebase);
 
 var msgData;
-
+//event data
 exports.eventTrigger = functions.firestore.document(
     'event/{eventId}'
 ).onCreate((snapshot, context) => {
